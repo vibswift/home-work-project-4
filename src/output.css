@@ -750,6 +750,10 @@ video {
   width: 1px;
 }
 
+.w-\[600px\] {
+  width: 600px;
+}
+
 .flex-row {
   flex-direction: row;
 }
