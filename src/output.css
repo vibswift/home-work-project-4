@@ -606,6 +606,18 @@ video {
   margin-bottom: 100px;
 }
 
+.mt-\[150px\] {
+  margin-top: 150px;
+}
+
+.mb-\[50px\] {
+  margin-bottom: 50px;
+}
+
+.mb-\[30px\] {
+  margin-bottom: 30px;
+}
+
 .flex {
   display: flex;
 }
@@ -976,6 +988,10 @@ video {
   padding-left: 100px;
 }
 
+.text-start {
+  text-align: start;
+}
+
 .text-\[60px\] {
   font-size: 60px;
 }
@@ -1047,4 +1063,8 @@ video {
 .text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity, 1));
+}
+
+.text-\[12\] {
+  color: 12;
 }
