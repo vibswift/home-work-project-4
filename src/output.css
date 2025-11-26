@@ -602,6 +602,10 @@ video {
   margin-top: 200px;
 }
 
+.mb-\[100px\] {
+  margin-bottom: 100px;
+}
+
 .flex {
   display: flex;
 }
